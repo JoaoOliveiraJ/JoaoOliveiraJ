@@ -12,6 +12,7 @@ Let´s go
 
 
 <h4 align="center"><strong>Tecnologias que estou aprendendo</strong></h4>
+<h4 align="center"><strong>Linkedin: https://www.linkedin.com/in/joaojmjm222/</strong></h4>
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
